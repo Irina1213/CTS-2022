@@ -1,2 +1,2 @@
 # CTS-laboratories
-Software Quality and Testing seminars
+Software Quality and Testing seminars 2022
